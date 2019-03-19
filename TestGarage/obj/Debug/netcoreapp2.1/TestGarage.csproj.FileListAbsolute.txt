@@ -1,0 +1,4 @@
+C:\Users\USER\source\repos\GarageFix\TestGarage\obj\Debug\netcoreapp2.1\TestGarage.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\GarageFix\TestGarage\obj\Debug\netcoreapp2.1\TestGarage.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GarageFix\TestGarage\obj\Debug\netcoreapp2.1\TestGarage.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\GarageFix\TestGarage\obj\Debug\netcoreapp2.1\TestGarage.AssemblyInfo.cs

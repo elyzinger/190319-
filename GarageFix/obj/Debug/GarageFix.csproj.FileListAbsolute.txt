@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\GarageFix\GarageFix\bin\Debug\GarageFix.exe.config
+C:\Users\USER\source\repos\GarageFix\GarageFix\bin\Debug\GarageFix.exe
+C:\Users\USER\source\repos\GarageFix\GarageFix\bin\Debug\GarageFix.pdb
+C:\Users\USER\source\repos\GarageFix\GarageFix\obj\Debug\GarageFix.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\GarageFix\GarageFix\obj\Debug\GarageFix.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GarageFix\GarageFix\obj\Debug\GarageFix.exe
+C:\Users\USER\source\repos\GarageFix\GarageFix\obj\Debug\GarageFix.pdb
